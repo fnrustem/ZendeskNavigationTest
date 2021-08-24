@@ -19,7 +19,7 @@ class ViewController: UIViewController {
         navigationController?.navigationBar.shadowImage = UIImage()
 
         // initialize SDK
-        Messaging.initialize(channelKey: "eyJzZXR0aW5nc191cmwiOiJodHRwczovL215dGF4aTE2MTgzMzM1ODUuemVuZGVzay5jb20vbW9iaWxlX3Nka19hcGkvc2V0dGluZ3MvMDFGNENKNVNaRFc5UlRGMzEyRktENTFNWFIuanNvbiJ9", completionHandler: nil)
+        Messaging.initialize(channelKey: "eyJzZXR0aW5nc191cmwiOiJodHRwczovL215dGF4aS56ZW5kZXNrLmNvbS9tb2JpbGVfc2RrX2FwaS9zZXR0aW5ncy8wMUZEVk5ZVDgyRTJXRk1aMFg2TUVXTVZXRy5qc29uIn0=", completionHandler: nil)
     }
 
 
