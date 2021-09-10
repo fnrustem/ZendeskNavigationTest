@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0A8EBAA826EB981800C5DA49 /* UIView+FirstResponder.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A8EBAA726EB981800C5DA49 /* UIView+FirstResponder.swift */; };
 		56608A6E269F148C00971A46 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56608A6D269F148C00971A46 /* AppDelegate.swift */; };
 		56608A70269F148C00971A46 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56608A6F269F148C00971A46 /* SceneDelegate.swift */; };
 		56608A72269F148C00971A46 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56608A71269F148C00971A46 /* ViewController.swift */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0A8EBAA726EB981800C5DA49 /* UIView+FirstResponder.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIView+FirstResponder.swift"; sourceTree = "<group>"; };
 		56608A6A269F148C00971A46 /* ZendeskIntegrationTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ZendeskIntegrationTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		56608A6D269F148C00971A46 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		56608A6F269F148C00971A46 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -58,6 +60,7 @@
 		56608A6C269F148C00971A46 /* ZendeskIntegrationTest */ = {
 			isa = PBXGroup;
 			children = (
+				0A8EBAA726EB981800C5DA49 /* UIView+FirstResponder.swift */,
 				56608A6D269F148C00971A46 /* AppDelegate.swift */,
 				56608A6F269F148C00971A46 /* SceneDelegate.swift */,
 				56608A71269F148C00971A46 /* ViewController.swift */,
@@ -145,6 +148,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0A8EBAA826EB981800C5DA49 /* UIView+FirstResponder.swift in Sources */,
 				56608A72269F148C00971A46 /* ViewController.swift in Sources */,
 				56608A6E269F148C00971A46 /* AppDelegate.swift in Sources */,
 				56608A70269F148C00971A46 /* SceneDelegate.swift in Sources */,
