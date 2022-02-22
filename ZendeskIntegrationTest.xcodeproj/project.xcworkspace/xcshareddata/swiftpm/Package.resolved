@@ -6,8 +6,8 @@
         "repositoryURL": "https://github.com/zendesk/sdk_conversation_kit_ios",
         "state": {
           "branch": null,
-          "revision": "143f98e643c280c9dc14d02c06a8115e7f673834",
-          "version": "0.5.1"
+          "revision": "9b140cbe96c531c3bbb9f2ffdac5634e4358003d",
+          "version": "0.8.0"
         }
       },
       {
@@ -15,8 +15,8 @@
         "repositoryURL": "https://github.com/zendesk/sdk_faye_client_ios",
         "state": {
           "branch": null,
-          "revision": "a63886be2fd2a0363f2a14b5e0e94f18e7a5a89f",
-          "version": "0.4.1"
+          "revision": "aa34801f187ed494601381c675ca7caabd4a69a3",
+          "version": "0.4.3"
         }
       },
       {
@@ -24,8 +24,17 @@
         "repositoryURL": "https://github.com/zendesk/sdk_http_client_ios",
         "state": {
           "branch": null,
-          "revision": "4528b3d44e597eeb2702999f612731bd7410319e",
-          "version": "0.4.2"
+          "revision": "24b347530bb88284b555ac10f9ba3af2f4aebc2a",
+          "version": "0.5.2"
+        }
+      },
+      {
+        "package": "ZendeskSDK",
+        "repositoryURL": "https://github.com/zendesk/sdk_ios",
+        "state": {
+          "branch": null,
+          "revision": "8e87e8e0041b103742d781044cd759193620f884",
+          "version": "1.1.0"
         }
       },
       {
@@ -33,8 +42,8 @@
         "repositoryURL": "https://github.com/zendesk/sdk_logger_ios",
         "state": {
           "branch": null,
-          "revision": "24cdc3535430542bffa4d66cfafd7f4c625bfe29",
-          "version": "0.4.1"
+          "revision": "b80e7207c36bb6200b315d0c3f4f4df9c560da5f",
+          "version": "0.4.3"
         }
       },
       {
@@ -42,8 +51,8 @@
         "repositoryURL": "https://github.com/zendesk/sdk_messaging_ios",
         "state": {
           "branch": null,
-          "revision": "2c7c9f8d65350677a47c64bb6b702bdcb50f6e54",
-          "version": "1.1.0"
+          "revision": "35d410adbcde8552e5d9571f8ed9bdcc41aa9c27",
+          "version": "2.1.0"
         }
       },
       {
@@ -51,8 +60,8 @@
         "repositoryURL": "https://github.com/zendesk/sdk_socket_client_ios",
         "state": {
           "branch": null,
-          "revision": "010e3ff9af2e0afde1c52be66c7033ce0d1fa1f2",
-          "version": "0.4.1"
+          "revision": "e41f6b71c5dfed3817a32cb0e94e6eddad28ffff",
+          "version": "0.4.3"
         }
       },
       {
@@ -60,8 +69,8 @@
         "repositoryURL": "https://github.com/zendesk/sdk_storage_ios",
         "state": {
           "branch": null,
-          "revision": "f49129ed1f9e7a7fb253c98962130846042b0977",
-          "version": "0.4.1"
+          "revision": "91f5bba126dbefa16add9605d0bf7ccfab76c1e9",
+          "version": "0.4.3"
         }
       },
       {
@@ -69,8 +78,8 @@
         "repositoryURL": "https://github.com/zendesk/sdk_ui_components_ios",
         "state": {
           "branch": null,
-          "revision": "b51a9d03763c49010e7df5af2c697fcfc12c5c44",
-          "version": "0.5.0"
+          "revision": "e31a19e0a956dad2c45908becfbddc4833265470",
+          "version": "0.7.1"
         }
       }
     ]
