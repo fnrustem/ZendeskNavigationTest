@@ -6,14 +6,28 @@
 //
 
 import UIKit
+import ZendeskSDK
+import ZendeskSDKMessaging
 
 @main
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
+    let channelKey = "CHANNEL_KEY"
 
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
-        // Override point for customization after application launch.
+
+        // initialize SDK
+        Zendesk.initialize(withChannelKey: channelKey, messagingFactory: DefaultMessagingFactory()) { result in
+            switch result {
+            case .success:
+                print("succeeded")
+                break
+            case let .failure(error):
+                print("failed, error", error.localizedDescription)
+            }
+        }
+        
         return true
     }
 
